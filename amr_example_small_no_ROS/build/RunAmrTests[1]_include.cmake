@@ -1,0 +1,5 @@
+if(EXISTS "/code/amr_ex_wts/build/RunAmrTests[1]_tests.cmake")
+  include("/code/amr_ex_wts/build/RunAmrTests[1]_tests.cmake")
+else()
+  add_test(RunAmrTests_NOT_BUILT RunAmrTests_NOT_BUILT)
+endif()

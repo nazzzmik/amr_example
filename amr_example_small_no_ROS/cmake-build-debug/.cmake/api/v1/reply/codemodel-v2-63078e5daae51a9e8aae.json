@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "amr_ex_wts",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OrderOptimizer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OrderOptimizer-Debug-89d889fcdab0520b3cf6.json",
+					"name" : "OrderOptimizer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunAmrTests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunAmrTests-Debug-3e9f273a92d196ed8afa.json",
+					"name" : "RunAmrTests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "amr_basis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-amr_basis-Debug-4669845e1ce43ffbb916.json",
+					"name" : "amr_basis",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug",
+		"source" : "C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

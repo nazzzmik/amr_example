@@ -1,0 +1,5 @@
+C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug/CMakeFiles/amr_basis.dir
+C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug/CMakeFiles/OrderOptimizer.dir
+C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug/CMakeFiles/RunAmrTests.dir
+C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dell I7/Downloads/amr_example_small_no_ROS/amr_example_small_no_ROS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

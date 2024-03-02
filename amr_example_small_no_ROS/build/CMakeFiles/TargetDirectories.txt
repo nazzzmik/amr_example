@@ -1,0 +1,5 @@
+/code/amr_ex_wts/build/CMakeFiles/rebuild_cache.dir
+/code/amr_ex_wts/build/CMakeFiles/edit_cache.dir
+/code/amr_ex_wts/build/CMakeFiles/RunAmrTests.dir
+/code/amr_ex_wts/build/CMakeFiles/OrderOptimizer.dir
+/code/amr_ex_wts/build/CMakeFiles/amr_basis.dir
